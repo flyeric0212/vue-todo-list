@@ -62,3 +62,7 @@ npm run preview
 - [Pinia 文档](https://pinia.vuejs.org/)
 - [Vite 文档](https://vitejs.dev/guide/)
 - [Vue 3 Composition API 文档](https://vuejs.org/guide/extras/composition-api-faq.html)
+
+## 许可证
+
+本项目基于 [MIT 许可证](./LICENSE) 发布。
