@@ -2,6 +2,8 @@
 
 这是一个使用Vue 3开发的现代待办事项（Todo List）应用，采用最新的Vue生态系统工具和最佳实践构建。
 
+![vue3-todo-demo](https://pic-bed-1256249917.cos.ap-chengdu.myqcloud.com/uPic/vue3-todo-demo.gif)
+
 ## 技术栈
 
 - **Vue 3** - 使用Composition API和`<script setup>`语法
